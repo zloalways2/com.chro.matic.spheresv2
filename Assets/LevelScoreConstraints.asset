@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f1ff7ff581db084e872a55f7b2dad71, type: 3}
+  m_Name: LevelScoreConstraints
+  m_EditorClassIdentifier: 
+  Map:
+  - LevelId: 0
+    Score: 1500
+  - LevelId: 1
+    Score: 2000
+  - LevelId: 2
+    Score: 2500
+  - LevelId: 3
+    Score: 3000
+  - LevelId: 4
+    Score: 4500
+  - LevelId: 5
+    Score: 5000
+  - LevelId: 6
+    Score: 5500
+  - LevelId: 7
+    Score: 6000
+  - LevelId: 8
+    Score: 6500
+  - LevelId: 9
+    Score: 7000
+  - LevelId: 10
+    Score: 7500
+  - LevelId: 11
+    Score: 8000
